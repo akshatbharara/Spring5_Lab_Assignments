@@ -1,6 +1,6 @@
 <html>
-<body>
-<div style="border:1px solid blue;text-align:center">
+<body bgcolor="yellow">
+<div style="border:5px solid orange;text-align:center">
 <h2>Login Page</h2>
 
 <form action="login" method="post">
